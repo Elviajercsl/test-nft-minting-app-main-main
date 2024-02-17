@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x860878fA4f2865fc582b1a6A596C8bCa1a1fC6eF",
+  "SCAN_LINK": "https://polygonscan.com/token/0x860878fa4f2865fc582b1a6a596c8bca1a1fc6ef",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bees_Constructor",
+  "SYMBOL": "BEC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bees-constructor",
+  "SHOW_BACKGROUND": true
+}
